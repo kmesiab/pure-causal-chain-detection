@@ -20,27 +20,27 @@ for future predictive matching.
 ## ✨ Features
 
 * **Unsupervised Causal Discovery:** Automatically identifies and learns
-* sequences of data changes that consistently precede significant events.
+sequences of data changes that consistently precede significant events.
 
 * **Pure Mathematical Pattern Recognition:** Operates solely on statistical
-* summaries of numerical tensors, making it highly adaptable across diverse
-* domains (e.g., video streams, financial markets, system monitoring) without
-* domain-specific training.
+summaries of numerical tensors, making it highly adaptable across diverse
+domains (e.g., video streams, financial markets, system monitoring) without
+domain-specific training.
 
 * **Complete Sequence Capture:** Stores the full "causal chain" from
-* stability to dramatic outcome, providing deep insights into event
-* precursors.
+stability to dramatic outcome, providing deep insights into event
+precursors.
 
 * **GUID-based Causal Laws:** Each learned pattern receives a unique
-* identifier, making the discovered "laws" traceable and reusable for
-* prediction.
+identifier, making the discovered "laws" traceable and reusable for
+prediction.
 
 * **Predictive Intelligence:** Leverages learned causal laws to match
-* against new, incoming data streams and predict future dramatic outcomes
-* with a quantifiable similarity confidence.
+against new, incoming data streams and predict future dramatic outcomes
+with a quantifiable similarity confidence.
 
 * **Real-time Streaming Ready:** Designed with efficient data structures
-* (`deque`) to handle continuous, frame-by-frame data processing.
+(`deque`) to handle continuous, frame-by-frame data processing.
 
 ---
 
@@ -73,6 +73,8 @@ pip install numpy
 2.  **Save the code:**
     Copy the provided Python code into a file named `causal_detector.py` 
 (or any `.py` file you prefer) within the cloned directory.
+
+---
 
 ### Running the Demo
 
